@@ -4,7 +4,6 @@ Implementasi game Hangman berbasis command-line interface yang ditulis sepenuhny
 
 [![Tonton Video Penjelasan](https://img.youtube.com/vi/ID_VIDEO_YOUTUBE/0.jpg)](https://youtube.com/playlist?list=PLVwDVVjU2I9E&si=MgATMUp1ryYspE45
 )
-*(Catatan: Hapus teks catatan ini dan ganti ID_VIDEO_YOUTUBE pada tautan di atas dengan ID unik dari URL video kamu)*
 
 ## Cara Kompilasi dan Menjalankan
 

@@ -27,6 +27,6 @@ Selain itu, alokasi memori dinamis pada bank kata saat menambahkan kata baru ber
 
 Untuk memahami lebih dalam bagaimana state machine permainan ini bekerja, seluruh diagram teknis sudah dipisahkan ke dalam direktori `/docs`. 
 
-- [Klik di sini untuk melihat dokumentasi alur menu utama](./docs/menu-utama.png)
-- [Klik di sini untuk melihat dokumentasi logika satu kali tebakan](./docs/proses-tebakan.png)
-- [Klik di sini untuk melihat dokumentasi algoritma penambahan kata dan pencarian biner](./docs/tambah-kata.png)
+- [Klik di sini untuk melihat dokumentasi alur menu utama](./docs/menu-utama.svg)
+- [Klik di sini untuk melihat dokumentasi logika satu kali tebakan](./docs/proses-tebakan.svg)
+- [Klik di sini untuk melihat dokumentasi algoritma penambahan kata dan pencarian biner](./docs/tambah-kata.svg)
